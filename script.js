@@ -1,0 +1,1 @@
+const DATA_API = 'https://jsonplaceholder.typicode.com/users';
