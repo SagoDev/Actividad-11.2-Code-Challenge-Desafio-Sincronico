@@ -1,0 +1,10 @@
+body {  
+    background-image: url(cloud.png);
+    
+    background-repeat: repeat;
+
+    background-size: 150px;
+    
+    background-color: rgb(53, 134, 214);
+    
+}
